@@ -1,0 +1,22 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+h1 {
+    color: red;
+}
+.info {
+    color: blue;
+}
+#heading {
+    color: teal;
+}
+
+
+
+
+
+/* [class="info"] {
+    color: black;
+} */
